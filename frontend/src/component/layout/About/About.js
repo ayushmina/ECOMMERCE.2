@@ -18,7 +18,7 @@ const About = () => {
           <div>
             <Avatar
               style={{ width: "10vmax", height: "10vmax", margin: "2vmax 0" }}
-              src="niticon.png"
+              src="ecom.png"
               alt="Founder"
             />
             <Typography>SARGCOM</Typography>
