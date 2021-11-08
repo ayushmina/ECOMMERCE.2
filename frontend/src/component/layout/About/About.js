@@ -26,7 +26,7 @@ const About = () => {
               Mail me
             </Button>
             <span>
-              This is an Ecommerce wesbite made by @SATYAM TOMAR, @AYUSH MINA and @RAMESH VISHNOI . Our purpose was to win squareboat hackathon.
+              This is an Ecommerce wesbite made by @SATYAM TOMAR, @AYUSH MINA and @RAMESH VISHNOI . Our purpose is to win squareboat hackathon.
             </span>
           </div>
           <div className="aboutSectionContainer2">
