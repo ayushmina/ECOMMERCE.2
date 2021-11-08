@@ -12,13 +12,13 @@ const About = () => {
       <div></div>
       <div className="aboutSectionGradient"></div>
       <div className="aboutSectionContainer">
-        <Typography component="h1">About Me</Typography>
+        <Typography component="h1">About Us</Typography>
 
         <div>
           <div>
             <Avatar
               style={{ width: "10vmax", height: "10vmax", margin: "2vmax 0" }}
-              src="myimg.jpg"
+              src="niticon.png"
               alt="Founder"
             />
             <Typography>SARGCOM</Typography>
